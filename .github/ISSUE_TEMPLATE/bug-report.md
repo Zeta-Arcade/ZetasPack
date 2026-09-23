@@ -1,8 +1,8 @@
 ---
 name: Bug Report
-about: Create a report to help us improve
+about: Create a report to help fix issues in the pack
 title: "[BUG]:"
-labels: Bug
+labels: Bug, Documentation
 assignees: Zeta-Arcade
 
 ---
